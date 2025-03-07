@@ -1,2 +1,20 @@
 # Ignore .env file
 .env
+
+
+# Ignore node_modules
+node_modules/
+
+# Ignore package-lock.json (if needed)
+package-lock.json
+
+# Ignore build files
+build/
+dist/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
